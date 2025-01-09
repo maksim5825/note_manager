@@ -1,0 +1,12 @@
+username="имя пользователя"
+title="заголовок заметки"
+content="описание заметки"
+status="статус заметки"
+created_date=10 , 1, 2025 # дата создания заметки
+issue_date = 12, 1, 2025  # дата истечения заметки
+print(username,"username", sep="-")
+print(title,"title", sep="-")
+print(content,"content", sep="-")
+print(status,"status", sep="-")
+print(created_date,"created_date", sep="-")
+print(issue_date,"issue_date", sep="-")
